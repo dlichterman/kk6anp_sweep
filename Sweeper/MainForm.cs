@@ -10,6 +10,14 @@ using System.Windows.Forms;
 using System.IO;
 using System.Windows.Forms.DataVisualization.Charting;
 
+/*
+ * Copyright  Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+ * http://creativecommons.org/licenses/by-sa/4.0/
+ * 
+ * See readme for more information
+ * 
+ * */
+
 namespace Sweeper
 {
     public partial class MainForm : Form
