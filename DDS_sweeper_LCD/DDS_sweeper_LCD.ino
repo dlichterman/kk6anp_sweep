@@ -24,6 +24,7 @@
 *                                                                           *
 *  Modifications done by KK6ANP 7/12/2015                                   *
 *  For more info and the PC program please go to http://lulzsoft.com        *
+*  Or https://github.com/dlichterman/kk6anp_sweep                           *
 *                                                                           *
 \***************************************************************************/
 
