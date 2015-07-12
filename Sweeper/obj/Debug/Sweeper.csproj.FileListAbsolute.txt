@@ -1,0 +1,12 @@
+d:\user redirect\documents\visual studio 2013\Projects\Sweeper\Sweeper\bin\Debug\Sweeper.exe.config
+d:\user redirect\documents\visual studio 2013\Projects\Sweeper\Sweeper\bin\Debug\Sweeper.exe
+d:\user redirect\documents\visual studio 2013\Projects\Sweeper\Sweeper\bin\Debug\Sweeper.pdb
+d:\user redirect\documents\visual studio 2013\Projects\Sweeper\Sweeper\obj\Debug\Sweeper.csprojResolveAssemblyReference.cache
+d:\user redirect\documents\visual studio 2013\Projects\Sweeper\Sweeper\obj\Debug\Sweeper.Properties.Resources.resources
+d:\user redirect\documents\visual studio 2013\Projects\Sweeper\Sweeper\obj\Debug\Sweeper.csproj.GenerateResource.Cache
+d:\user redirect\documents\visual studio 2013\Projects\Sweeper\Sweeper\obj\Debug\Sweeper.exe
+d:\user redirect\documents\visual studio 2013\Projects\Sweeper\Sweeper\obj\Debug\Sweeper.pdb
+d:\user redirect\documents\visual studio 2013\Projects\Sweeper\Sweeper\obj\Debug\Sweeper.MainForm.resources
+D:\User Redirect\Documents\GitHub\kk6anp_sweep\Sweeper\bin\Debug\Sweeper.exe.config
+D:\User Redirect\Documents\GitHub\kk6anp_sweep\Sweeper\obj\Debug\Sweeper.exe
+D:\User Redirect\Documents\GitHub\kk6anp_sweep\Sweeper\obj\Debug\Sweeper.pdb
