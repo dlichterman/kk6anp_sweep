@@ -10,3 +10,10 @@ d:\user redirect\documents\visual studio 2013\Projects\Sweeper\Sweeper\obj\Debug
 D:\User Redirect\Documents\GitHub\kk6anp_sweep\Sweeper\bin\Debug\Sweeper.exe.config
 D:\User Redirect\Documents\GitHub\kk6anp_sweep\Sweeper\obj\Debug\Sweeper.exe
 D:\User Redirect\Documents\GitHub\kk6anp_sweep\Sweeper\obj\Debug\Sweeper.pdb
+D:\User Redirect\Documents\GitHub\kk6anp_sweep\Sweeper\bin\Debug\Sweeper.exe
+D:\User Redirect\Documents\GitHub\kk6anp_sweep\Sweeper\bin\Debug\Sweeper.pdb
+D:\User Redirect\Documents\GitHub\kk6anp_sweep\Sweeper\obj\Debug\Sweeper.csprojResolveAssemblyReference.cache
+D:\User Redirect\Documents\GitHub\kk6anp_sweep\Sweeper\obj\Debug\Sweeper.MainForm.resources
+D:\User Redirect\Documents\GitHub\kk6anp_sweep\Sweeper\obj\Debug\Sweeper.Properties.Resources.resources
+D:\User Redirect\Documents\GitHub\kk6anp_sweep\Sweeper\obj\Debug\Sweeper.csproj.GenerateResource.Cache
+D:\User Redirect\Documents\GitHub\kk6anp_sweep\Sweeper\obj\Debug\Sweeper.AboutBox.resources

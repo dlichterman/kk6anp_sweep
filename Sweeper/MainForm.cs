@@ -317,5 +317,22 @@ namespace Sweeper
             }
         }
 
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AboutBox b = new AboutBox();
+            b.ShowDialog();
+
+        }
+
+        private void moreInfoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/dlichterman/kk6anp_sweep");
+        }
+
     }
 }
