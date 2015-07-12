@@ -142,13 +142,13 @@ namespace Sweeper
             }
             else
             {
-                listBox1.Items.Clear();
+                listBoxResults.Items.Clear();
                 foreach(string s in strlist)
                 {
                     string[] s1 = s.Split(',');
                     if (s1.Count() > 1)
                     {
-                        listBox1.Items.Add( Math.Round(double.Parse(s1[0]) / 1000000,6).ToString("0.000000") + "," + Math.Round(double.Parse(s1[1]) / 1000,6).ToString("0.0000"));
+                        listBoxResults.Items.Add( Math.Round(double.Parse(s1[0]) / 1000000,6).ToString("0.000000") + "," + Math.Round(double.Parse(s1[1]) / 1000,6).ToString("0.0000"));
                     }
 
                 }
@@ -172,7 +172,7 @@ namespace Sweeper
             btnSweep.Text = "Sweeping...";
             list.Clear();
             chartSWR.Series["VSWR"].Points.Clear();
-            listBox1.Items.Clear();
+            listBoxResults.Items.Clear();
             strlist.Clear();
             
             double fStart = double.Parse(tbStart.Text);
@@ -294,7 +294,7 @@ namespace Sweeper
                 {
                     StreamWriter sw = new StreamWriter(saveDialog.FileName);
                     sw.WriteLine("Frequency,SWR");
-                    foreach (string s in listBox1.Items)
+                    foreach (string s in listBoxResults.Items)
                     {
                         sw.WriteLine(s);
                     }

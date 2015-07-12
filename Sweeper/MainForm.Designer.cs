@@ -38,7 +38,7 @@
             this.serialPort = new System.IO.Ports.SerialPort(this.components);
             this.btnSweep = new System.Windows.Forms.Button();
             this.chartSWR = new System.Windows.Forms.DataVisualization.Charting.Chart();
-            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.listBoxResults = new System.Windows.Forms.ListBox();
             this.cbSteps = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.toolTip = new System.Windows.Forms.ToolTip(this.components);
@@ -121,15 +121,15 @@
             this.chartSWR.Text = "chart1";
             this.chartSWR.MouseMove += new System.Windows.Forms.MouseEventHandler(this.chart1_MouseMove);
             // 
-            // listBox1
+            // listBoxResults
             // 
-            this.listBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.listBoxResults.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(616, 71);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(189, 368);
-            this.listBox1.TabIndex = 5;
+            this.listBoxResults.FormattingEnabled = true;
+            this.listBoxResults.Location = new System.Drawing.Point(616, 71);
+            this.listBoxResults.Name = "listBoxResults";
+            this.listBoxResults.Size = new System.Drawing.Size(189, 368);
+            this.listBoxResults.TabIndex = 5;
             // 
             // cbSteps
             // 
@@ -259,7 +259,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.cbSteps);
-            this.Controls.Add(this.listBox1);
+            this.Controls.Add(this.listBoxResults);
             this.Controls.Add(this.chartSWR);
             this.Controls.Add(this.btnSweep);
             this.Controls.Add(this.button1);
@@ -282,7 +282,7 @@
         private System.IO.Ports.SerialPort serialPort;
         private System.Windows.Forms.Button btnSweep;
         private System.Windows.Forms.DataVisualization.Charting.Chart chartSWR;
-        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.ListBox listBoxResults;
         private System.Windows.Forms.ComboBox cbSteps;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ToolTip toolTip;
