@@ -282,11 +282,11 @@ namespace Sweeper
                     tbStart.Text = "5.2";
                     tbStop.Text = "5.5";
                     break;
-                case 13: //80m
+                case 12: //80m
                     tbStart.Text = "3.4";
                     tbStop.Text = "4.1";
                     break;
-                case 14: //160m
+                case 13: //160m
                     tbStart.Text = "1.7";
                     tbStop.Text = "2.1";
                     break;
